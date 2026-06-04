@@ -1,3 +1,5 @@
+Reference: https://github.com/github/spec-kit
+
 1. Install UV package manager
 curl -LsSf https://astral.sh/uv/install.sh | sh
  
